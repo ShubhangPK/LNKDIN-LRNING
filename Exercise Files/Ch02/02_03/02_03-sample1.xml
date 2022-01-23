@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<name>
+		<first>George</first>
+		<last>Washington</last>
+	</name>
+	<date type="birthday">
+		<month>February</month>
+		<day>22</day>
+		<year>1732</year>
+	</date>
+	<date type="died">
+		<month>December</month>
+		<day>14</day>
+		<year>1799</year>
+	</date>
+	<occupation>President</occupation>
+	<notes>First president of the United States.</notes>
+</person>
+

@@ -1,0 +1,14 @@
+{
+
+	"firstName": "George",
+	"lastName": "Washington",
+	"middleName": null,
+	"importantDates": [ 1732, 1776, 1789, 1799 ],
+	"living": false,
+	"titles": {
+		"Pre-revolution": "General",
+		"Republic": "President",
+		"Present": "Father of our country"
+	},
+	"notes": "First president of the United States."
+}
