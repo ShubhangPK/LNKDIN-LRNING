@@ -20,8 +20,11 @@ a. Using C library libxml2 to create and manipulate the XML files
 	
 	Excercise file - Chapter 2 - [Refer http://xmlsoft.org/ for further exploration]
 
-b. Using C library JSON
+b. Using C library JSON 
 	JSON abbreviated as - JavaScript Object Notation - is a Data Interchange Format
 	Usage of JSON lib in C - https://github.com/json-c/json-c
+	
+c. Using Curl
+	Command line utility to fetch and put information to the internet - https://curl.se/
 	
 	
