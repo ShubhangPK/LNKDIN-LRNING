@@ -10,7 +10,6 @@ c. Link the object code with a library (taken care by a linker) in order to crea
 In this lesson we learn about the following concepts :-
 
 a. Using C library libxml2 to create and manipulate the XML files 
-
 	Usage of XML (data interchange format) - describe, store and transport data
 		1. To describe data - usage of tags. Eg. <xml> data </xml>
 		2. Prolog tag - <?xml version="1.0" encoding="UTF-8" ?> ; For XML library - libxml2
