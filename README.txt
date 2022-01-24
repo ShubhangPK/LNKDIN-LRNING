@@ -19,7 +19,7 @@ a. Using C library libxml2 to create and manipulate the XML files
 
 	clang -Wall <library> <file-being-compiled>
 	
-	Excercise file - Chapter 2 - [Refer <a href="http://xmlsoft.org/">XML</a> for further exploration]
+	Excercise file - Chapter 2 - [Refer http://xmlsoft.org/ for further exploration]
 
 b. Using C library JSON
 	JSON abbreviated as - JavaScript Object Notation - is a Data Interchange Format
