@@ -27,4 +27,7 @@ b. Using C library JSON
 c. Using Curl
 	Command line utility to fetch and put information to the internet - https://curl.se/
 	
+	Process:-
+	Intialize curl -> setup curl operation -> perform curl operation -> cleanup
+	
 	
